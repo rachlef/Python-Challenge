@@ -1,10 +1,6 @@
-Election Results
-------------------------------)
-Total Votes:369711
-----------------------------
-Charles Casper Stockham: 85213 [23.049%)
-Diana DeGette: 272892 [73.812%)
-Raymon Anthony Doane: 11606 [3.139%)
------------------------------
-Winner: Diana DeGette with 272892 votes
----------------------------------
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $22564198
+Average Change: S-8311.11
+Greatest increase and decrease:[1862002, -1825558]
